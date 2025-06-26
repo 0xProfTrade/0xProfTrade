@@ -38,12 +38,7 @@ U5FU5PqJnJ4ePqBCGbk8LC6WqJzSHBHZHT3PQQbVHAE
 
 ---
 
-## 🎖️ My Hacktoberfest Badges  
-[![@im-hanzou's Holopin board](https://holopin.io/api/user/board?user=haxsinner)](https://holopin.io/@haxsinner)
 
-## 📊 GitHub Stats and Language Usage  
-![0xProfTrade GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xProfTrade&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xProfTrade&layout=donut&theme=tokyonight&show_icons=true)
-## Hi there 👋
 
 <!--
 **0xProfTrade/0xProfTrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
